@@ -74,7 +74,7 @@ export const searchLogs = text => async dispatch => {
 export const sortLogs = text => async dispatch => {
 	try {
 		setLoading();
-		const res = await fetch(`logs?_sort=${text}&_order=asc`);
+		const res = await fetch(`logs?_sort=${text}&_order=desc`);
 		const data = await res.json();
 
 		dispatch({
