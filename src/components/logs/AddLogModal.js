@@ -34,7 +34,7 @@ const AddLogModal = ({ addLog }) => {
 			notes,
 			date: new Date()
 		};
-		if (species === '' || rarity === 'none') {
+		if (species === '' || rarity === '') {
 			M.toast({
 				html: `Observation not added to the list. Please check values.`
 			});
