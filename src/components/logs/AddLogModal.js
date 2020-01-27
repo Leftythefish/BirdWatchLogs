@@ -136,14 +136,14 @@ const AddLogModal = ({ addLog }) => {
 						<a
 							href='#!'
 							onClick={onSubmit}
-							className='modal-close waves-effect waves-green btn-flat btn-large green-text right'
+							className='modal-close waves-effect waves-green btn-flat green-text right'
 						>
 							Save
 						</a>
 						<a
 							href='#!'
 							onClick={onCancel}
-							className='modal-close waves-effect waves-red btn-flat btn-large red-text right'
+							className='modal-close waves-effect waves-red btn-flat red-text right'
 						>
 							CANCEL
 						</a>
