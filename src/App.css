@@ -1,0 +1,8 @@
+/* select option text color */
+ul.dropdown-content.select-dropdown li span {
+	color: orange;
+}
+/*nav bar shadow disable*/
+.no-shadows {
+	box-shadow: none !important;
+}

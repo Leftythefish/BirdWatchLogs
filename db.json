@@ -1,0 +1,76 @@
+{
+	"logs": [
+		{
+			"id": 1,
+			"species": "Red-Nosed Flamingo",
+			"notes": "Seen chilling on a beach.",
+			"date": "2019-11-26T16:02:08.116Z",
+			"rarity": "Rare",
+			"rarityscale": 2
+		},
+		{
+			"id": 2,
+			"species": "Blue Tit",
+			"notes": "Keeps staring at me from outside of the kitchen window.",
+			"date": "2019-08-26T16:02:08.116Z",
+			"rarity": "Common",
+			"rarityscale": 1
+		},
+		{
+			"id": 3,
+			"species": "Barn owl",
+			"notes": "Don't know where it is but I can hear it ALL THE TIME.",
+			"date": "2019-01-26T16:03:08.116Z",
+			"rarity": "Extremely rare",
+			"rarityscale": 3
+		},
+		{
+			"species": "Makaw",
+			"rarity": "Extremely Rare",
+			"notes": "In my dreams",
+			"date": "2020-01-26T16:02:08.116Z",
+			"id": 4,
+			"rarityscale": 3
+		},
+		{
+			"species": "Swallow",
+			"rarity": "Common",
+			"notes": "On a forest trail.",
+			"date": "2020-01-26T16:10:38.473Z",
+			"id": 5,
+			"rarityscale": 1
+		},
+		{
+			"species": "Emperor Penquin",
+			"rarity": "Rare",
+			"notes": "Waddling around Wall-Street",
+			"date": "2020-01-27T08:12:04.807Z",
+			"id": 6,
+			"rarityscale": 2
+		},
+		{
+			"species": "Sparrow",
+			"rarity": "Common",
+			"rarityscale": 1,
+			"notes": "Croaking next to the river.",
+			"date": "2020-01-27T14:39:26.054Z",
+			"id": 7
+		},
+		{
+			"species": "Swan",
+			"rarity": "Common",
+			"rarityscale": 1,
+			"notes": "Swimming around the sea.",
+			"date": "2020-01-27T15:10:49.845Z",
+			"id": 8
+		},
+		{
+			"species": "Hummingbird",
+			"rarity": "Rare",
+			"rarityscale": 2,
+			"notes": "Humming around.",
+			"date": "2020-01-27T16:08:45.798Z",
+			"id": 9
+		}
+	]
+}
