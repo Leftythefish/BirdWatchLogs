@@ -6,3 +6,7 @@ ul.dropdown-content.select-dropdown li span {
 .no-shadows {
 	box-shadow: none !important;
 }
+
+::placeholder {
+	color: white;
+}
