@@ -161,7 +161,7 @@ AddLogModal.propTypes = {
 // modal size
 const modalStyle = {
 	width: '75%',
-	height: '75%'
+	height: '45%'
 };
 
 export default connect(null, { addLog })(AddLogModal);
